@@ -53,12 +53,26 @@ Here is an in-depth look at why each of the 5 key files exists and what role it 
 
 ---
 
-## 🛠️ How to Build & Run
+## 🛠️ How to Set Up & Run (New Machine Guide)
 
-### Prerequisites
-- A C++ compiler supporting **C++11** or higher (e.g., GCC, Clang, or MSVC).
+To run the project from scratch on any computer, complete these steps:
 
-### Compilation
+### 1. Download & Clone
+Open your terminal application and execute:
+```bash
+git clone https://github.com/sherwynjoel/Habit-Builder-with-Streak-System.git
+```
+
+### 2. Enter Workspace
+```bash
+cd Habit-Builder-with-Streak-System
+```
+
+### 3. Prerequisites
+- Ensure a reliable C++ compiler suite supporting standard **C++11** constraints operates appropriately.
+
+### 4. Compilation
+
 Open your terminal/command prompt in the project directory and run:
 
 ```bash
